@@ -3,151 +3,201 @@
   description: GeoINTA update as a SDI node and integration with different GIS tools of the Armed Institute based on INTA is current reality discovery to the different tools integration, providing centralized technological solution and decentralized functionality.
   url: https://geo-backend.inta.gob.ar/
   image: GeoNode_GeoInta.png
+  lat: -35.1776817931
+  long: -65.1443052969
   
 - title: GeoMOP
   subtitle: Public Works Argentine Republic is Ministry
   description: National SDI for the management of public works of the Argentine Republic for its monitoring and management
   url: https://geoportal.obraspublicas.gob.ar/
   image: GeoNode_GeoMop.png
+  lat: -35.1776817931
+  long: -65.1443052969
   
 - title: SDI ECLAC
   subtitle: UN - ECLAC
   description: ECLAC SDI that supplies statistical viewers with information from Latin America and the Caribbean, integrating the SDI of the Americas. 
   url: https://geoportal.cepal.org/
   image: GeoNode_Cepal.png
+  lat: -10.266270
+  long: -65.646732
   
 - title: SDI Tres de Febrero Municipality
   subtitle: Buenos Aires province
   description: Implementation Service of SDI-Cadastre Platform for the Municipality of 3 de Febrero.
   url: https://geoportal.tresdefebrero.gob.ar/
   image: GeoNode_3DeFebrero.png
+  lat: -34.598056
+  long: -58.565000
 
 - title: SDI Luján de Cuyo Municipality
   subtitle: Mendoza province
   description: 3D platform is Installation with reference layers and rules engine with data from the Urban Code. IDE node for content management using the open-source software products GeoServer + Postgres + GeoNode. Data migration to the new portal.  Installation of a workflow management and automation platform, Airflow 
   url: https://geoportal.lujandecuyo.gob.ar/
   image: GeoNode_LujanDelCuyo.png
-  
+  lat: -33.016667
+  long: -68.866667
+ 
 - title: Cadastre 3D San Luis
   subtitle: San Luis province
   description: 3D platform Installation and Geographic Information system that allows easy configuration of the geospatial portal and the authorized users can manage metadata catalogs served by the 3D platform 
   url: https://geonode.catastro.sanluis.gov.ar/
   image: GeoNode_SanLuis.png
+  lat: -33.989018
+  long: -65.928776
   
 - title: Cadastre Neuquen
   subtitle: Neuquén province
   description: Updating and Modernization of the Cadastre Infrastructure System of the Provincial Directorate of Cadastre and Information of the Province of Neuquén
   url: https://geonode.dpc.neuquen.gov.ar/
   image: GeoNode_CatastroNeuquen.png
+  lat: -38.6416977431
+  long: -70.1187696141
 
 - title: Thünen-Atlas
   subtitle: OpenData portal by Thünen-Institute 
   description: Since 2015, the Thünen Institute has made data on land use and animal husbandry in Germany publicly available in digital map sets at the municipal level. In 2016, we added maps on fisheries, forests and forest use. Also, in 2016, the Land Atlas was created as a comprehensive digital map application. The new Thünen Atlas combines all these digital applications and their underlying data inside a data portal providing metadata and web services.
   url: https://atlas.thuenen.de/
   image: thuenenAtlas.jpg
+  lat: 51.053140
+  long: 10.318660
 
 - title: AlpConv Atlas
   subtitle: Alpine Convention Atlas 
   description: The Alpine Convention Atlas is the repository where you can discover and browse the Alps' relevant data and information. It aims to collect, organize and disseminate the results of research activities carried out by the Alpine Convention and its Working Groups.
   url: https://www.atlas.alpconv.org/
   image: AlpConvAtlas.jpg
+  lat: 46.609415
+  long: 9.407609
 
 - title: Geoportal OUOT
   subtitle: Observatorio Universitario de Ordenamiento Territorial (OUOT) - Universidad Nacional Autónoma de Honduras (UNAH)
   description: The University Observatory of Territorial Planning, proposed by the Faculty of Space Sciences through the Master's Degree in Territorial Planning and Management, is a specialized center that collects, processes, analyzes, interprets, systematizes and disseminates information on the subject of Territorial Planning and Geographic Information Technologies, aimed at supporting and substantiating the scientific research of the UNAH and contributing to the rigorous knowledge of the subject in the country.This Geoportal, based on GeoNode, aims to be an open repository of information to share geospatial data and maps, which can be consulted by the university community and the general population.
   url: https://geoportalouot.unah.edu.hn/
   image: GeoNode_OUOT.jpg
+  lat: 14.720644
+  long: -86.566461
 
 - title: InnovationLab
   subtitle: GFDRR InnovationLab
   description: Open data to further your understanding of disaster risk. We maintain a curation of hazard datasets at the global and country level. Tools like ThinkHazard! use these datasets in the backend.
   url: https://www.geonode-gfdrrlab.org/
   image: innovationlab.png
+  lat: 38.895000
+  long: -77.036667
 
 - title: IHP-WINS
   subtitle: UNESCO
   description: Water Information Network System by the International Hydrological Programme of UNESCO.
   url: http://ihp-wins.unesco.org/
   image: ihpwins.png
+  lat: 48.856667
+  long: 2.352222
 
 - title: Disasterrisk
   subtitle: DisasterRisk Afghanistan
   description: A public platform for creating, sharing and accessing geospatial data and maps for decision-making about disaster risk.
   url: http://disasterrisk.af/
   image: disasterrisk.png
+  lat: 34.532778
+  long: 69.165833
 
 - title: Assess Risk (HEV-E)
   subtitle: GFDRR
   description: HEV-E is a Data Exploration platform to promote the ability of a user to access, understand and use hazard, exposure and vulnerability data stored in its global geospatial data repository.
   url: http://assess-risk.info
   image: heve.png
+  lat: 38.895000
+  long: -77.036667
 
 - title: WorldMap
   subtitle: Harvard WorldMap
   description: The Harvard University open SDI and GeoCMS platform based on GeoNode. The WorldMap flavor of GeoNode implements a number of features not found in stock GeoNode including a data search tool called Hypermap which supports search against very large numbers of layers, a layer creation tool, an advanced styling tool, a notes tool, and a gazetteer capability.
   url: http://worldmap.harvard.edu/
   image: worldmap.png
+  lat: 38.894227
+  long: -77.021918
   
 - title: GeoSAFE
   subtitle: Mozambique Government
   description: GeoSAFE is a web platform that provides the ability to run InaSAFE analyses online. InaSAFE is free software that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. It provides a simple but rigorous way to combine data from scientists, local governments and communities to provide insights into the likely impacts of future disaster events.
   url: http://geonode.ingc.gov.mz
   image: geosafe.png
+  lat: -18.453971
+  long: 34.567801
 
 - title: OONDRA
   subtitle: Kartoza
   description: OONDRA, the Online Operational Natural Disaster Risk Assessment platform, is an open source platform based on Geonode, for sharing geospatial hazard and exposure data and maps.
   url: http://oondra.kartoza.com/
   image: oondra.png
+  lat: -6.828789
+  long: 39.283331
 
 - title: ESDAC
   subtitle: ESDAC Map Viewer
   description: The ESDAC Map Viewer allows the user to navigate key soil data for Europe. It provides access to the attributes of the European Soil Database and some additional data related to main soil threats as identified in the Soil Thematic Strategy. The ESDAC Map Viewer is developed according to standards (OGC WMS) so that they are interoperable with similar information allowing real-time integration of environmental data from around the world.
   url: https://esdac.jrc.ec.europa.eu/viewer
   image: esdac.png
+  lat: 50.846292
+  long: 4.350559
 
 - title: UN WFP
   subtitle: United Nations World Food Programme
   description: The United Nations World Food Programme is using GeoNode enhance their data collecting capabilities from anywhere in the world. By leveraging features like on line editing features and crowdsouring data they are be better prepared to react during humanitarian emergencies.
   url: http://geonode.wfp.org
   image: wfp.png
+  lat: 41.899987
+  long: 12.494434
 
 - title: State GeoNode
   subtitle: State GeoNode
   description: The State GeoNode is a digital service provided by the U.S. Department of State for publishing open geographic data produced by or compiled by the U.S. Government to the public, U.S. Government decision-makers, and partners on complex emergencies, natural disasters, and diplomatic activities world-wide.
   url: http://geonode.state.gov/
   image: stategeonode.png
+  lat: 38.895000
+  long: -77.036667
 
 - title: CMA
   subtitle: Caribbean Marine Atlas
   description: The Caribbean Marine Atlas is a digital technological platform on line which function as repository of geospatial and documental information to support decision making in Integrated Coastal Zone Management ICZM as well as for monitoring and evaluation of Caribbean Large Marine Ecosystem CLME. The Atlas, its tools and contents are addressed to professionals in charge of planning, ministries and national and regional authorities, decision makers, policy makers and potential partners related to ICZM of country pilots in this phase, to the country partners of CLME+ project and the rest of countries, institutions or stakeholders interested from Caribbean.
   url: https://www.caribbeanmarineatlas.net/
   image: cma2.png
+  lat: 14.620277
+  long: -83.577399
 
 - title: SIAM
   subtitle: Catalogue of Coastal Marine Cartographic Resources of Colombia
   description: Digital map collection of support for environmental management and planning of Colombia's coast and oceans.
   url: http://geonodesiam.invemar.org.co/
   image: siam.png
+  lat: 4.668760 
+  long: -74.078415
 
 - title: ARPA Veneto
   subtitle: ARPA Veneto Italy
   description: Venetor Region - Agency for Environmental Protection (ARPAV).
   url: http://geomap.arpa.veneto.it/
   image: arpa.png
+  lat: 45.668990 
+  long: 11.927964 
 
 - title: IW:LEARN
   subtitle: IW:LEARN Spatial Lab
   description: The IW:LEARN Spatial Lab aims to provide a customizable mapping of the GEF International Waters (IW) portfolio and provide a visualization of studies, reports and intervention results on the various transboundary water basins pulled together with the help of the GEF IW projects, partner organizations and authoritative sources and other contributors.
   url: http://geonode.iwlearn.org
   image: iwlearn.png
+  lat: 38.895000
+  long: -77.036667
 
 - title: ICRAF
   subtitle: ICRAF Geoscience Lab
   description: TICRAF Geoscience Lab, uses Geonde as a spatial data sharing platform to meets its mission of applying GeoSciences in real decision contexts, such as climate change adaptation,                         hydrological effects of changes in climate and land cover, targeting of agroforestry interventions, provision of soil fertility and surveillance advisory services for smallholder farmers, digital soil and land use/cover mapping, and measuring impacts of interventions, all this using open source.
   url: http://landscapeportal.org/
   image: icraf.png
-
+  lat: -1.236403
+  long: 36.818684
+  
 - title: IGAD
   subtitle: IGAD Spatial Web Portal
   description: The Geoportal of the Intergovernmental Authority on Drought and Development
@@ -159,18 +209,24 @@
   description: The Uganda Bureau of Statistics Geonode Instance is an open source data dissemination platform for sharing Geo-referenced statistical data and maps.
   url: http://ubos.geo-solutions.it/
   image: ubos.png
+  lat: -1.236403
+  long: 36.818684
 
 - title: Bolivia GeoNode
   subtitle: Bolivia GeoNode
   description: "Bolivia is using GeoNode to develop a Geographical Data Infrastructure for the National Information System for Risk Reduction, composed by science and specialised sectors in the areas of; Risk  management, Geological Survey, National Statistics, MilitaryGeographical Institute, Heath, Land, Water and education sectors. Each sector will have an instance of                                    GeoNode, and all the be federated in one system  orchestrated by the Civil Defence Office. A few examples of Bolivia's instances are below: <ul class='unstyled'><li><a href= 'http://geosinager.defensacivil.gob.bo/'>http://geosinager.defensacivil.gob.bo/</a></li><li><a href= 'http://georiesgos.sergeotecmin.gob.bo/'>http://georiesgos.sergeotecmin.gob.bo/</a></li><li><a href= 'http://geonode.igmbolivia.gob.bo/'>http://geonode.igmbolivia.gob.bo/</a></li><li><a href= 'http://mapas.senamhi.gob.bo/'>http://mapas.senamhi.gob.bo/</a></li><li><a href= 'http://geosinager.defensacivil.gob.bo/'>http://geosinager.defensacivil.gob.bo/</a></li></ul>"
   url: http://geosinager.defensacivil.gob.bo
   image: bolivia.png
+  lat: -17.407126
+  long: -64.721446
 
 - title: VMEEA Geoportal
   subtitle: Ministero de Energias Bolivia
   description: Geoportal del Viceministerio de Electricitad y Energìas Alternativas del VMEEA.
   url: http://sigvmeea.minenergias.gob.bo/maps/60/view
   image: vmeea.png
+  lat: -17.407126
+  long: -64.721446
 
 - title: Caribbean Risk Atlas
   subtitle: UMI DRRC
@@ -267,27 +323,37 @@
   description: Open Source geospatial data management and visualization platform of Bangladesh Government.
   url: http://www.geodash.gov.bd/
   image: geodash.png
+  lat: 23.725990
+  long: 89.954731
 
 - title: RISKINFO
   subtitle: Disaster Management Centre of Sri Lanka
   description: A public platform for GIS Data to support development in Sri Lanka. Developed in collaboration with WorldBank.
   url: http://www.riskinfo.lk/
   image: riskinfo.png
+  lat: 7.279484
+  long: 80.775802
 
 - title: CEDEUS
   subtitle: Centro de Desarrollo Urbano Sustentable
   description: Open Source geospatial data management and visualization platform.
   url: http://www.cedeus.cl/
   image: cedeus.png
+  lat: -33.476934
+  long: -70.655989
 
 - title: Landscape Portal
   subtitle: World Agroforestry Centre Kenia
   description: The Landscape Portal is ICRAF’s interactive online spatial data storage and visualization platform. It comes with a rich set of features to store, document, search and retrieve, and visualize spatial data and maps.
   url: http://landscapeportal.org/
   image: landscape.png
+  lat:  -0.314177
+  long: 37.697454
 
 - title: BHUVAN - SUVIDHA
   subtitle: Indian National Remote Sensing Centre
   description: Indian Geo-Platform of ISRO.
   url: http://bhuvan-suvidha.nrsc.gov.in/
   image: suvidha.png
+  lat: 17.027992
+  long: 78.189562
