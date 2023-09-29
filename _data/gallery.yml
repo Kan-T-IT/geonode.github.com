@@ -203,14 +203,16 @@
   description: The Geoportal of the Intergovernmental Authority on Drought and Development
   url: http://geonode.igad.int/
   image: igad.png
+  lat: 11.593565 
+  long: 43.147869
 
 - title: Uganda Bureau of Statistics
   subtitle: Uganda
   description: The Uganda Bureau of Statistics Geonode Instance is an open source data dissemination platform for sharing Geo-referenced statistical data and maps.
   url: http://ubos.geo-solutions.it/
   image: ubos.png
-  lat: -1.236403
-  long: 36.818684
+  lat: 0.315778
+  long: 32.584327
 
 - title: Bolivia GeoNode
   subtitle: Bolivia GeoNode
