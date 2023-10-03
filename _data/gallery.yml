@@ -235,6 +235,8 @@
   description: The University of the West Indies (UWI) Disaster Risk Reduction Centre (DRRC) and the World Bank collaborated on the "Caribbean Risk Atlas" project with the main goal of making spatial data on risk for hurricanes, earthquakes and floods in the Caribbean available on-line. Mona GeoInformatics Institute (MGI) built the "Cariska" web map application for this project on the GeoNode platform.
   url: http://cariska.mona.uwi.edu
   image: cariska.png
+  lat: 17.998616
+  long: -76.798148
 
 - title: CIGNo
   subtitle: National Council of Research ISMAR
